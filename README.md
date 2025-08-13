@@ -39,6 +39,4 @@ Built with **TensorFlow/Keras**, **OpenCV**, and integrated with a database for 
    git clone https://github.com/Anki2003tha/food-freshness-detector.git
    cd food-freshness-detector
 
-python -m venv venv
-source venv/bin/activate   # On Mac/Linux
-venv\Scripts\activate      # On Windows
+
