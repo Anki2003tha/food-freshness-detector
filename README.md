@@ -48,7 +48,7 @@ food-freshness-detector/
 │       └── __init__.py
 │
 └── ...
-
+```
 
 
 
