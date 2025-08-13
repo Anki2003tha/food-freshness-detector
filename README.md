@@ -27,7 +27,7 @@ Built with **TensorFlow/Keras**, **OpenCV**, and integrated with a database for 
 
 ---
 
-## 📂 Project Structure
+
 ## 📂 Project Structure
 
 ```bash
