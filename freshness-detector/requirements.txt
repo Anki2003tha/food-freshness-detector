@@ -1,0 +1,7 @@
+tensorflow==2.10.0
+opencv-python==4.5.3.20210929
+sqlite3==2.6.0
+flask==2.0.2
+streamlit==1.3.0
+numpy==1.21.2
+Pillow==8.4.0
