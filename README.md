@@ -28,20 +28,29 @@ Built with **TensorFlow/Keras**, **OpenCV**, and integrated with a database for 
 ---
 
 ## 📂 Project Structure
-freshness-detector/
-│── README.md
-│── requirements.txt
-│── freshness_model.h5
-│── src/
-│ ├── app.py # Main application
-│ ├── data_preprocessing.py # Data loading & preprocessing
-│ ├── database.py # DB connection & queries
-│ ├── model_training.py # CNN model training script
-│ ├── predict.py # Prediction script
-│ └── utils/
-│ └── init.py
+## 📂 Project Structure
 
----
+```bash
+food-freshness-detector/
+│
+├── 📄 README.md                 # Project documentation
+├── 📦 requirements.txt          # Python dependencies
+├── 🧠 freshness_model.h5         # Trained ML model
+│
+├── 📁 src/                      # Source code
+│   ├── 🚀 app.py                 # Main application entry point
+│   ├── 🧹 data_preprocessing.py  # Data loading & preprocessing
+│   ├── 🗄 database.py            # Database connection & queries
+│   ├── 🎯 model_training.py      # CNN model training script
+│   ├── 🔍 predict.py             # Prediction script
+│   │
+│   └── 📂 utils/                 # Helper functions
+│       └── __init__.py
+│
+└── ...
+
+
+
 
 ## ⚙ Installation & Setup
 
